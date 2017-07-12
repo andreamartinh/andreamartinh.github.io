@@ -1,0 +1,130 @@
+h1{
+  text-align: center;
+  font-family: 'Pacifico', sans-serif;
+  color: MediumTurquoise;
+  text-shadow: 2px 2px grey;
+}
+h4{
+  width: 10em;
+  text-align: center;
+  
+}
+h3{
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+}
+
+p{
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  color: gray;
+}
+
+a:visited {
+  color: DarkGray;
+}
+
+html{
+  width : 100%;
+  height: 100%;
+  background-color: #DCDCDC;
+}
+
+body{
+  padding: 50px 10px 0px 10px;
+  width : 95%;
+  height: 100%;
+  
+
+}
+
+.Navigation{
+  display: flex;
+  color: DarkGray;
+  margin-left: 25%;
+  margin-right: 25%;
+
+}
+
+.Main{
+  width: 60%;
+  height: 45%;
+  margin-top:3%;
+  margin-left: 18%;
+  margin-right: 25%;
+  background-color: white;
+  box-shadow: 10px 10px 5px grey;
+}
+
+.ImageAndBody{
+  display: flex;
+  margin-top:7%;
+  margin-left:7%;
+}
+
+.MyParagraph{
+  width: 60%;
+  font-family: 'Amatic SC', cursive;
+  font-size: 120%;
+  text-align:justify;
+}
+
+.Contact{
+  margin-left: 3.5%;
+  margin-top:-2%;
+  margin-left:12%;
+  margin-bottom:3%;
+}
+
+
+
+#about{
+  width: 6em;
+  color: grey;
+}
+
+#brent{
+  color: MediumTurquoise;
+  
+}
+
+#photo1{
+  width: 200px;
+  height:200px;
+  border-radius: 50%;
+  margin-right: 5%;
+  margin-top:3%;
+}
+
+.paragraph-images{
+ 	width: 3%;
+ 	height:auto;
+}
+
+#run{
+	width: 2%;
+	height:auto
+}
+
+
+#contact{
+  width: 30px;
+  height:auto;
+  border-radius: 100%;
+}
+
+
+
+
+
+
+
+
+
