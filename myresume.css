@@ -57,8 +57,6 @@ body{
   margin-left: 20%;
   margin-right: 20%;
   margin-top:5%;
-  background-color: white;
-  box-shadow: 10px 10px 5px grey;
   width: 65%;
   height: 30%;
 }
@@ -66,10 +64,6 @@ body{
 .Experience{
 
   margin-top:10%;
-  background-color: white;
-  box-shadow: 10px 10px 5px grey;
-  
-  height: 500px;
 }
 
 .Title{
@@ -133,8 +127,6 @@ body{
    text-align:justify;
 }
 
-#white{
-  
-}
+
 
 
