@@ -34,16 +34,12 @@ a:visited {
 
 html{
   width : 100%;
-  height: 50%;
   background-color: #DCDCDC;
 }
 
 body{
   padding: 50px 10px 0px 10px;
   width : 95%;
-  height: 45%;
-  
-
 }
 
 .Navigation{
@@ -55,8 +51,6 @@ body{
 
 .Main{
   width: 100%;
-  height: 30%;
-
 }
 
 .ImageAndBody{
