@@ -89,6 +89,10 @@ body{
   min-width:100px;
 }
 
+#nav{
+  min-width:150px;
+}
+
 #brent{
   color: MediumTurquoise;
   
