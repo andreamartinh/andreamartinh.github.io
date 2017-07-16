@@ -126,7 +126,7 @@ body{
 .topnav {
     display: flex;
     background-color: #DCDCDC;
-    width : 50%;
+    width : 100%;
     height:auto;
     margin-left:25%;
     margin-right:25%;
