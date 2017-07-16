@@ -87,6 +87,13 @@ body{
 
 }
 
+.Context1{
+   margin-top:-2%;
+   margin-left: 18%;
+   margin-right: 10%;
+   display: flex;
+}
+
 #imgEdu{
   margin-top:2%;
   margin-right:2%;
