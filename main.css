@@ -87,9 +87,6 @@ body{
   min-width:100px;
 }
 
-#nav{
-  min-width:150px;
-}
 
 #brent{
   color: MediumTurquoise;
@@ -127,6 +124,7 @@ body{
 
 /* Add a black background color to the top navigation */
 .topnav {
+    display: flex;
     background-color: #DCDCDC;
     width : 80%;
     height:auto;
