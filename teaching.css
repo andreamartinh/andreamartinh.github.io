@@ -40,10 +40,42 @@ body{
 
 }
 
+.Main{
+  width: 70%;
+  margin:auto;
+  background-color: white;
+  box-shadow: 10px 10px 5px grey;
+  margin-bottom:5%;
+  padding-bottom:5%;
+}
+
+.Title {
+  margin-left: 5%;
+  display: flex;
+  margin-top:-2%;
+  padding-top: 3%;
+}
+
+.Context{
+   margin-top:-2%;
+   margin-left: 18%;
+   margin-right: 10%;
+
+}
+
 
  #teach{
    color:grey;
  }
+
+#imgTA{
+  margin-top:2%;
+  margin-right:2%;
+  width: 7%;
+  height:5%;
+  border-radius: 50%;
+  margin-left: 2%;
+}
 
 
 /* Add a black background color to the top navigation */
