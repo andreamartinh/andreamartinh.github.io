@@ -226,7 +226,9 @@ one ("Home"). Show the link that contains should open and close the topnav (.ico
 }
 
 
-
+* {
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
 
 
 
