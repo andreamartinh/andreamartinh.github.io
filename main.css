@@ -43,12 +43,6 @@ body{
   width : 95%;
 }
 
-.Navigation{
-  display: flex;
-  margin-left: 25%;
-  margin-right: 25%;
-
-}
 
 .Main{
   width: 100%;
@@ -192,7 +186,7 @@ one ("Home"). Show the link that contains should open and close the topnav (.ico
 
 @media screen and (max-width: 800px) {
 	.intro{
- 		margin-top:15%;
+ 		margin-top:20%;
 	}
 	#photo1{
 		margin-left: 28%;
@@ -226,6 +220,7 @@ one ("Home"). Show the link that contains should open and close the topnav (.ico
   		font-size: 120%;
   		text-align:justify;
 	}
+	
 	
 	
 }
