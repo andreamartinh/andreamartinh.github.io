@@ -141,6 +141,7 @@ body{
     text-align: center;
     text-decoration: none;
     font-size: 125%;
+    margin-left: 5%;
 }
 
 /* Change the color of links on hover */
@@ -257,7 +258,7 @@ one ("Home"). Show the link that contains should open and close the topnav (.ico
 	
 	.topnav{
 	margin-left:-2%;
-	font-size: 150%;
+	font-size: 200%;
 	}
 	
 	
