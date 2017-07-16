@@ -48,6 +48,10 @@ body{
   width: 100%;
 }
 
+.intro{
+   margin-top:20%;
+}
+
 .ImageAndBody{
   display: flex;
   background-color: white;
@@ -186,7 +190,7 @@ one ("Home"). Show the link that contains should open and close the topnav (.ico
 
 @media screen and (max-width: 800px) {
 	.intro{
- 		margin-top:20%;
+ 		margin-top:15%;
 	}
 	#photo1{
 		margin-left: 28%;
