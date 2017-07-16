@@ -244,13 +244,13 @@ one ("Home"). Show the link that contains should open and close the topnav (.ico
 	
 	.Contact{
   		display: flex;
- 		 width:80%;
-  		height:60%;
+ 		width:50%;
+  		height:auto;
   		margin: 0% 5% 0% 0%;
 	}
 	
 	#contact{
-  		width: 50%;
+  		width: 60%;
  		height:auto;
   		border-radius: 100%;
   		margin-top:5%;
