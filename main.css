@@ -207,10 +207,10 @@ one ("Home"). Show the link that contains should open and close the topnav (.ico
 	}
 	
 	.ImageAndBody{
-		width:90%;
+		width:80%;
   		display: block;
   		margin-top:7%;
-  		margin-left:0%;
+  		margin-left:10%;
   		padding-bottom:1%;
   		margin-bottom: 4%;
   		background-color: white;
