@@ -202,18 +202,18 @@ one ("Home"). Show the link that contains should open and close the topnav (.ico
 	
 	.Main{
   		width: 100%;
- 		  height: auto;
+ 		height: auto;
   		margin-top:3%;
-		  margin-left:-2%;
-  		background-color: #DCDCDC;
-  		box-shadow: 0px 0px 0px #DCDCDC;
+		margin-left:-2%;
+  		background-color: white;
+  		box-shadow: 10px 10px 5px grey;
 	}
 	
 	
 	.topnav{
-	margin-left:-2%;
-	font-size: 200%;
-	display: block;
+		margin-left:-2%;
+		font-size: 200%;
+		display: block;
 	}
 	
 	
