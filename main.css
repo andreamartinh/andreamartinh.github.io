@@ -246,7 +246,7 @@ one ("Home"). Show the link that contains should open and close the topnav (.ico
   		display: flex;
  		width:50%;
   		height:auto;
-  		margin-left:20%;
+  		margin-left:25%;
 	}
 	
 	#contact{
@@ -260,10 +260,6 @@ one ("Home"). Show the link that contains should open and close the topnav (.ico
 	
 }
 
-
-* {
-  border: 1px solid rgba(0, 0, 0, 0.3);
-}
 
 
 
