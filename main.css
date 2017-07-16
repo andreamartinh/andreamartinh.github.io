@@ -189,6 +189,15 @@ one ("Home"). Show the link that contains should open and close the topnav (.ico
 }
 
 @media screen and (max-width: 800px) {
+	
+	h1{
+ 		text-align: center;
+  		font-family: 'Pacifico', sans-serif;
+  		color: MediumTurquoise;
+  		text-shadow: 2px 2px grey;
+		font-size: 400%;
+	}
+	
 	.intro{
  		margin-top:15%;
 		font-size: 300%;
