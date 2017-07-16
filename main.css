@@ -193,7 +193,7 @@ one ("Home"). Show the link that contains should open and close the topnav (.ico
  		margin-top:15%;
 	}
 	#photo1{
-		margin-left: 28%;
+		margin-left: 20%;
   		margin-right: 25%;
 	}
 	
@@ -230,6 +230,13 @@ one ("Home"). Show the link that contains should open and close the topnav (.ico
   		height: auto;
 		margin-left:20%;
 
+	}
+	
+	#contact{
+  		width: 50%;
+ 		height:auto;
+  		border-radius: 100%;
+  		margin-top:5%;
 	}
 	
 	
