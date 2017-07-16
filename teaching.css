@@ -78,6 +78,15 @@ body{
   margin-left: 2%;
 }
 
+#hrHorizontal{
+  height: 1%;
+  width: 85%;
+  background-color: gray;
+  margin-top: 6%;
+  margin-left: 5%;
+  margin-right: 2%;
+}
+
 
 /* Add a black background color to the top navigation */
 .topnav {
