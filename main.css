@@ -191,10 +191,10 @@ one ("Home"). Show the link that contains should open and close the topnav (.ico
 @media screen and (max-width: 800px) {
 	.intro{
  		margin-top:15%;
+		font-size: 300%;
 	}
 	#photo1{
-		margin-left: 20%;
-  		margin-right: 25%;
+		margin-left: 15%;
 	}
 	
 	.Main{
@@ -221,7 +221,7 @@ one ("Home"). Show the link that contains should open and close the topnav (.ico
   		margin-left:5%;
   		margin-bottom:7%;
   		font-family: 'Amatic SC', cursive;
-  		font-size: 120%;
+  		font-size: 200%;
   		text-align:justify;
 	}
 	
@@ -230,6 +230,13 @@ one ("Home"). Show the link that contains should open and close the topnav (.ico
   		height: auto;
 		margin-left:20%;
 
+	}
+	
+	.Contact{
+  		display: flex;
+ 		 width:80%;
+  		height:60%;
+  		margin: 0% 10% 0% 6%;
 	}
 	
 	#contact{
