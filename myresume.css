@@ -204,7 +204,8 @@ one ("Home"). Show the link that contains should open and close the topnav (.ico
   		width: 100%;
  		height: auto;
   		margin-top:20%;
-		margin-left:15%;
+		margin-left:10%;
+		margin-right:10%;
   		background-color: white;
   		box-shadow: 10px 10px 5px grey;
 	}
