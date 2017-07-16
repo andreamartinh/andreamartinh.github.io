@@ -52,6 +52,41 @@ body{
  }
 
 
+/* Add a black background color to the top navigation */
+.topnav {
+    display: flex;
+    background-color: #DCDCDC;
+    width : 50%;
+    height:auto;
+    margin-left:30%;
+    margin-right:25%;
+
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 125%;
+    margin-left: 5%;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color:  MediumTurquoise;
+    color: white;
+}
+
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+    display: none;
+}
+
+
 /* When the screen is less than 600 pixels wide, hide all links, except for the first 
 one ("Home"). Show the link that contains should open and close the topnav (.icon) */
 @media screen and (max-width: 800px) {
