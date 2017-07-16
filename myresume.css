@@ -39,10 +39,6 @@ body{
   width : 95%;
 }
 
-.Navigation{
-  display: flex;
-  margin-left: 25%;
-  margin-right: 25%;
   
 
 }
@@ -51,7 +47,8 @@ body{
   margin:auto;
   background-color: white;
   box-shadow: 10px 10px 5px grey;
-  margin-bottom:10%;
+  margin-bottom:5%;
+  padding-bottom:5%;
 }
 
 .Education{
@@ -137,7 +134,7 @@ body{
     background-color: #DCDCDC;
     width : 50%;
     height:auto;
-    margin-left:25%;
+    margin-left:30%;
     margin-right:25%;
 
 }
