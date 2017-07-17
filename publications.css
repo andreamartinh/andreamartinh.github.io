@@ -46,6 +46,14 @@ body{
   margin-bottom:5%;
   padding-bottom:5%;
 }
+
+imgCom{
+ width: 70%;
+ height:auto;
+ margin-bottom:15%;
+ box-shadow: 10px 10px 5px grey;
+ margin-left:15%;
+}
  
 #publications{
  	color:grey;
