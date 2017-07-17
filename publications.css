@@ -53,11 +53,12 @@ body{
 .imgComp{
  width: 100%;
 display:flex;
-font-size: 200%;
+font-size: 400%;
+margin-left: 25%;
 }
 
 #imgCom{
-width: 30%;
+width: 20%;
 }
  
 #publications{
