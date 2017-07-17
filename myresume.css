@@ -44,13 +44,12 @@ body{
 
 .Main{
   width: 70%;
-  display:flex;
   margin:auto;
   background-color: white;
   box-shadow: 10px 10px 5px grey;
   margin-bottom:5%;
   padding-bottom:5%;
-  font-family: 'Amatic SC', cursive;
+
 }
 
 .Education{
