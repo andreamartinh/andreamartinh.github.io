@@ -49,8 +49,12 @@ body{
   font-family: 'Amatic SC', cursive;
 }
 
-#imgCom{
+.imgComp{
+ width: 50%;
+}
 
+#imgCom{
+ width: 30%;
 }
  
 #publications{
