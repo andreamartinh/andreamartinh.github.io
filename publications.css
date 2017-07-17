@@ -55,12 +55,12 @@ body{
 display:flex;
 font-size: 400%;
 margin-left: 25%;
-margin-top:10%;
+margin-top:8%;
 }
 
 #imgCom{
 width: 15%;
-heigth:auto;
+heigth:20%;
 margin-right:5%;
 
 }
@@ -167,6 +167,4 @@ This class makes the topnav look good on small screens (display the links vertic
 	
 }
 
-* {
-  border: 1px solid rgba(0, 0, 0, 0.3);
-}
+
