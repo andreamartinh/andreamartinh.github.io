@@ -133,6 +133,11 @@ body{
    text-align:justify;
 }
 
+#pdf{
+  color: MediumTurquoise;
+  
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
     display: flex;
@@ -171,10 +176,6 @@ body{
   color: DarkGray;
 }
 
-#pdf{
-  width: 5%;
-  height: auto;
-}
 
 
 
