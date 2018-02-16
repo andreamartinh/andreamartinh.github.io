@@ -38,6 +38,10 @@ body{
 
 }
 
+#pdf{
+color: MediumTurquoise;
+}
+
 .Main{
   width: 60%;
   height:20%;
