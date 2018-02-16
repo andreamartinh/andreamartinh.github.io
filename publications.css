@@ -38,9 +38,7 @@ body{
 
 }
 
-#pdf{
-color: MediumTurquoise;
-}
+
 
 .Main{
   width: 60%;
@@ -69,7 +67,11 @@ height: 15%;
 margin-top: 15%;
 margin-right: 10%;
 }
- 
+
+#pdf{
+color: MediumTurquoise;
+}
+
 #publications{
  	color:grey;
  }
