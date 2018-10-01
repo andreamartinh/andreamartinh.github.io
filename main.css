@@ -34,7 +34,7 @@ a:visited {
 
 html{
   width : 100%;
-  background-color: #a1e54e;
+  background-color: #DCDCDC;
   min-width:700px;
 }
 
@@ -83,7 +83,7 @@ body{
 
 
 #about{
-  color: #a1e54e;
+  color: #DCDCDC;
   min-width:100px;
 }
 
@@ -125,7 +125,7 @@ body{
 /* Add a black background color to the top navigation */
 .topnav {
     display: flex;
-    background-color: #a1e54e;
+    background-color: #DCDCDC;
     width : 50%;
     height:auto;
     margin-left:30%;
@@ -211,7 +211,7 @@ This class makes the topnav look good on small screens (display the links vertic
  		height: auto;
   		margin-top:3%;
 		margin-left:-2%;
-  		background-color: #a1e54e;
+  		background-color: #DCDCDC;
   		box-shadow: 0px 0px 0px #a1e54e;
 	}
 	
